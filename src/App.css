@@ -1,0 +1,23 @@
+body {
+  background-color: #ccc;
+}
+
+.container {
+  padding: 2rem;
+  background-color: #f4f4f4;
+}
+
+.col-6-sm {
+  width: 50%;
+}
+.col {
+  position: relative;
+}
+
+.col {
+  margin-top: 2rem;
+}
+div.col > div > div{
+  max-width: 1000px;
+  width: 100%;
+}
